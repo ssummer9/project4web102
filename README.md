@@ -1,5 +1,5 @@
 # project4web102
-# Web Development Project 4 - *Artwork from the World*
+# Web Development Project 4 - *Artworks from the World*
 
 Submitted by: **Sawaira Summer **
 
