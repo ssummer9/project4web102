@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+body{
+  font-family: Tahoma, Verdana;
+  background-color: #d7cf64c3;
+  color: #574b16;
+  display:flex;
+  justify-content: center;
+  padding: 30px;
+}
