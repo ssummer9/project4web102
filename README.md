@@ -1,7 +1,7 @@
 # project4web102
 # Web Development Project 4 - *Artworks from the World*
 
-Submitted by: **Sawaira Summer **
+Submitted by: **Sawaira Summer**
 
 This web app: **Provided from the Art Institute of Chicago API, this website will allow users to filter the place of origin and artist from around the world. All arts are introduced in a button where you can discover any artwork. Some artworks are not available through image from the website. **
 
